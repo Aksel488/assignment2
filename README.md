@@ -7,4 +7,4 @@ Sander Sæther s331358
 ```
 
 
-we chose regression becasue we wanted a line that we could easily read. with this we can see a good estimate over a longer time.
+we chose regression becasue we wanted a line that we could easily read. with this we can see a estimate over a longer time.
